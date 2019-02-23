@@ -1,0 +1,52 @@
+/* css for broadway project */
+
+body {
+  font-family: "Helvetica";
+  text-align: center;
+}
+
+header {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+  font-size: 18px;
+  color: white;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+.designed h2 {
+  background-image: url(../images/the-flatiron-building.png);
+  color: white;
+}
+
+footer {
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
+
+.footer {
+  list-style: none;
+  font-size: 18px;
+  color: white;
+}
+
+:link {
+  color: white;
+}
+
+:visited {
+  color: white;
+}
