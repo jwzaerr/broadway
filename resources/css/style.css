@@ -15,6 +15,11 @@ h1 {
   font-weight: bold;
 }
 
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
 ul {
   list-style: none;
   font-size: 18px;
@@ -25,9 +30,18 @@ li {
   margin-bottom: 15px;
 }
 
+p {
+  font-size: 14px;
+}
+
+.process h2 {
+  font-size: 32px;
+}
+
 .designed h2 {
   background-image: url(../images/the-flatiron-building.png);
   color: white;
+  font-size: 23px;
 }
 
 footer {
